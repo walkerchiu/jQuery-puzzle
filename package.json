@@ -1,0 +1,22 @@
+{
+  "name": "jQuery-puzzle",
+  "version": "1.0.0",
+  "description": "Puzzle",
+  "main": "puzzle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkerchiu/jQuery-puzzle.git"
+  },
+  "author": {
+    "name": "Walker Chiu",
+    "email": "chenjen.chiou@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walkerchiu/jQuery-puzzle/issues"
+  },
+  "homepage": "https://github.com/walkerchiu/jQuery-puzzle#readme"
+}
